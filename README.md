@@ -1,7 +1,6 @@
-PKWL
+Public-Key-Web-Login (PKWL)
 ====
-
-Public-Key-Web-Login
+Ein Verfahren zur passwortlosen Authentifizierung
 
 
 Zusammenfassung
