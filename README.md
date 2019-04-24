@@ -12,7 +12,6 @@ Introduction
 This repository contains the bachelor's thesis "A Method for Password-free Authentication" by Mirko Oleszuk (2013).
 The source-code for the clients and server is placed in its respective submodule-folder.
 The presentation slides are available in english and german.
-The thesis will be translated into English as soon as possible.
 
 
 Zusammenfassung
